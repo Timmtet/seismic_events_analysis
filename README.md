@@ -1,6 +1,6 @@
 # SEISMIC EVENTS ANALYSIS
 
-#Introduction 
+## Introduction 
 
 The project focuses on the analysis of global seismic events from the midnight of September 1st, 2023 to 9:30am on November 15th, 2023. The goal of this analysis is to perform an analysis on this data and identifying interesting insights
 which are highlighted through visualisations. The result of this analysis is then hosted online using a shiny web app. 
