@@ -2,10 +2,10 @@
 
 ## Introduction 
 
-The project focuses on the analysis of global seismic events from the midnight of September 1st, 2023 to 9:30am on November 15th, 2023. The goal of this analysis is to perform an analysis on this data and identifying interesting insights
+The project focuses on the analysis of global seismic events from the midnight of September 1st, 2023 to 9:30 am on November 15th, 2023. The goal of this analysis is to perform an analysis on this data and identify interesting insights
 which are highlighted through visualisations. The result of this analysis is then hosted online using a shiny web app. 
 
-The dataset used for this analysis is a real-life dataset gotten from www.ie.com. The analysis started with a data cleaning phase where the data was cleaned. The next step was a deep dive into data analysis and visualization making use of the Plotly library. The last step is the deployement of the visualization of the analysis uisng a shiny for python web application.
+The analysis started with a data cleaning phase where the data was cleaned. The next step was a deep dive into data analysis and visualization making use of the Plotly library. The last step is the deployment of the visualization of the analysis using a shiny for Python web application.
 
 
 ## Contents
